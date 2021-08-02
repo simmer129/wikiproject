@@ -1,0 +1,235 @@
+body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    
+  
+}
+a{
+    text-decoration: none;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.left-side {
+    width: 15%;
+    background-color: #f8f9fa;
+    border-right: 1px solid #0473ad;
+
+}
+
+.left-side img {
+    width: 160px;
+    height: auto;
+    justify-items: center;
+    padding: 30px;
+
+}
+
+.right-menu {
+    padding: 5px;
+
+}
+
+.right-menu ul li {
+    padding-top: 10px;
+    list-style: none;
+}
+
+.right-menu ul li a {
+    text-decoration: none;
+    color: #0645ad;
+}
+
+
+
+.contribute ul li {
+    padding-top: 10px;
+    list-style: none;
+}
+
+.contribute ul li a {
+    text-decoration: none;
+    color: #0645ad;
+}
+
+.tools ul li {
+    padding-top: 10px;
+    list-style: none;
+}
+
+.tools ul li a {
+    text-decoration: none;
+    color: #0645ad;
+}
+
+.main {
+    width: 85%;
+    
+}
+.header{
+    width: 100%;
+    
+}
+.persontools{
+    display: flex;
+    justify-content: flex-end;
+}
+.persontools ul{
+    display: flex;
+    list-style: none;
+    
+}
+.persontools ul li{
+    padding: 10px;
+}
+.persontools ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    text-align: center;
+    color: #0645ad;
+}
+.persontools ul li a img{
+    width: 14px;
+    height: auto;
+}
+.mainnav{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.leftnav ul{
+    list-style: none;
+    display: flex;
+}
+.leftnav ul li{
+    padding: 5px;
+}
+.leftnav ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    text-align: center;
+    color: #0645ad;
+}
+
+.rightnav{
+    display: flex;
+}
+.rightnav ul {
+    list-style: none;
+    display: flex;
+}
+.rightnav ul li{
+    padding: 5px;
+}
+.rightnav ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    text-align: center;
+    color: #0645ad;
+}
+.forms{
+    margin-top: 19px;
+    height: 28px;
+}
+
+.imgserch{
+    background: no-repeat center / 1.23076923em url(https://en.wikipedia.org/w/skins/Vector/resources/common/images/search.svg?bbf78);
+    width: 28px;
+    height: auto;
+    border: none;
+}
+.headertitle{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    border-bottom: 1px solid;
+    margin: 0 10px;
+}
+.imgloock img{
+    width: 20px;
+    height: auto;
+}
+.headertitle h1{
+    font-size: 28px; 
+}
+
+.continer{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 100%;
+    
+}
+.maincontent{
+    width: 70%;
+   
+}
+.titlecontent p{
+    font-size: 14px;
+    padding: 0 0 0 24px;
+}
+
+.table{
+    width: 35%;
+    background-color: #f8f9fa;
+}
+.box{
+    border: 1px solid #a2a9b1;
+    border-spacing: 3px;
+    background-color: #f8f9fa;
+    color: black;
+    margin: 0 auto;
+    margin-top: 35px;
+    padding: 10px;
+    width: 90%;
+}
+.boximage{
+    border-top: 1px solid #a2a9b1;
+}
+.boximage{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.flag{
+    width: 127px;
+    height: 83px;
+    margin-top: 10px;
+    
+}
+.emblem{
+    width: 83px;
+    height: 83px;
+    margin-top: 10px;
+
+}
+.boxsund{
+    border-top: 1px solid #a2a9b1;  
+    text-align: center;
+    margin-top: 10px;
+}
+.motto{
+    border-top: 1px solid #a2a9b1;  
+    text-align: center;
+    margin-top: 10px;
+}
+
+.iranmap{
+    border-top: 1px solid #a2a9b1;  
+    text-align: center; 
+}
+
+.iranmap img{
+    margin-top: 10px;
+    width: 250px;
+    height: 250px;
+
+}
